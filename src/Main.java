@@ -12,5 +12,6 @@ public class Main {
             enBuyuk = sayi3;
         }
         System.out.println("En buyuk sayi : " + enBuyuk);
+
     }
 }
